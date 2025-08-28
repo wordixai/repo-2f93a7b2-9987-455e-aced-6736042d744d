@@ -89,7 +89,7 @@ const Features = () => {
             <div className="text-white mb-2">Not just another AI IDE.</div>
             <div className="flex flex-wrap items-center justify-center gap-4">
               <span className="text-white">Qoder thinks</span>
-              <span className="qoder-gradient-text">{ deeper }</span>
+              <span className="qoder-gradient-text">deeper</span>
               <span className="text-white">to solve</span>
             </div>
             <div className="text-white mt-2">real software challenges.</div>
